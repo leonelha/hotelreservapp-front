@@ -1,10 +1,8 @@
 # 🏨 Hotel Resarvation System
-<table>
-  <tr>
-    <td><img src="src/assets/images/logohotel.png" alt="Logo" width="100" style="border-radius: 50%;"/></td>
-    <td><h1 style="margin: 0;">Hotel Paradise</h1></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="src/assets/images/logohotel.png" alt="Logo" width="100" style="border-radius: 50%; display: inline;"/>
+  <span style="font-size: 2em; margin-left: 20px;">Hotel Paradise</span>
+</p>
 
 ## 🚀 Prerequisites
 Before you begin, make sure you have the following installed on your system:
