@@ -1,9 +1,8 @@
+# 🏨 Hotel Resarvation System
 <div align="center">
   <img src="src/assets/images/logohotel.png" alt="Logo" width="200" style="border-radius: 50%; display: inline-block; vertical-align: middle;"/>
   <h1 style="display: inline-block; vertical-align: middle; margin-left: 20px;">Hotel Paradise</h1>
 </div>
-
-# 🏨 Hotel Resarvation System
 
 ## 🚀 Prerequisites
 Before you begin, make sure you have the following installed on your system:
